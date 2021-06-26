@@ -5,5 +5,8 @@ This notebook effectively automates the LiDAR points clouds processing. It reads
 
 The code's final portion executes post-processes for the generated DEM, fills no data values and depressions and generates geomorphometric rasters such as slope, curvature and hillshade.
 
+DSM
 ![Screenshot](DSM.JPG)
+
+DEM
 ![Screenshot](DEM.JPG)
