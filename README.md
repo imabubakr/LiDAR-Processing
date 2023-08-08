@@ -1,5 +1,5 @@
 # LiDAR-Processing
-Reads and analyzes all .las files in a given folder, removing outliers, duplicates and interpolating point cloud files into a single raster (DEM). The final part post-processes the generated DEM by filling depressions and no data values and generates geomorphometric raster's such as slope, curvature, and hillshade.
+This repository offers a script designed to efficiently handle tasks such as outlier and duplicate elimination, interpolation into a comprehensive raster (DEM), and post-processing steps like no data value handling, and the creation of geomorphometric rasters including slope, curvature, and hillshade.
 
 ![Screenshot](Potree.JPG)
 
